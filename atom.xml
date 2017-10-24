@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://bilalbaqar.github.io/atom.xml" rel="self"/>
+  <link href="http://bilalbaqar.github.io/"/>
+  <updated>2017-10-24T23:12:55+05:00</updated>
+  <id>http://bilalbaqar.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Pilot]]></title>
+    <link href="http://bilalbaqar.github.io/blog/2017/10/24/pilot/"/>
+    <updated>2017-10-24T00:05:35+05:00</updated>
+    <id>http://bilalbaqar.github.io/blog/2017/10/24/pilot</id>
+    <content type="html"><![CDATA[<p>Setting up a blog using Octopress.</p>
+]]></content>
+  </entry>
+  
+</feed>
