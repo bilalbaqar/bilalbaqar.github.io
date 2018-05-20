@@ -1,3 +1,35 @@
+## bilalbaqar.github.io
+
+### Setup
+
+# Install ruby 
+\curl -L https://get.rvm.io | bash -s stable --ruby=2.4.1
+
+# test ruby 
+source ~/.rvm/scripts/rvm
+rvm --default use 2.4.1
+
+# install gems
+gem install jekyll
+gem install bundler
+
+# install octopress
+bundle install
+
+# not required as theme already installed
+rake install
+
+# new post
+
+rake new_post["Some Awesome Title"]
+# creates entry in source/_posts
+
+# new page
+rake new_page[about]
+
+#preview
+rake preview
+
 ## Octopress 3.0
 
 Note: Octopress 3.0 is in development at https://github.com/octopress/octopress
