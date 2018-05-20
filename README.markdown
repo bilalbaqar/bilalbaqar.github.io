@@ -1,7 +1,8 @@
-## bilalbaqar.github.io
+# bilalbaqar.github.io
 
-### Setup
+## Setup Build Env
 
+```
 # Install ruby 
 \curl -L https://get.rvm.io | bash -s stable --ruby=2.4.1
 
@@ -29,6 +30,7 @@ rake new_page[about]
 
 #preview
 rake preview
+```
 
 ## Octopress 3.0
 
